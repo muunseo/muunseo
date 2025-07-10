@@ -1,10 +1,6 @@
 ## 김윤서(Yunseo Kim)  
 🧑‍💻 AI Convergence Dept., AI Major & Big Data Science Student 
 
-## 📚 About Me  
-안녕하세요! AI와 데이터 분석을 통해 문제를 해결하는 것에 관심을 가지고 있는 김윤서입니다.  
-꾸준한 도전과 성장을 중요하게 생각합니다.
-
 ## 🔭 현재 집중하고 있는 공부  
 - AI(머신러닝, 딥러닝)  
 - 데이터 분석 (통계, 시각화 포함)  
